@@ -1,7 +1,7 @@
 /**
  * divide array
  * k and n-k
- * sum(k) - sum(n-k) = max
+ * |sum(k) - sum(n-k)| is max
  */
 
 
